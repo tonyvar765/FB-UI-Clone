@@ -1,0 +1,42 @@
+button{
+    background-color: aqua;
+    color: red;
+}
+
+#h2{
+    color: rgb(232, 12, 12);
+}
+#h3{
+    color: gold;
+}
+.p1{
+    color: blue;
+    margin-left: 50px;
+}
+
+.outer-box{
+    height: 300px;
+    width: 300px;
+    background: green;
+    margin-top: 30px;
+    padding-top: 0px;
+    border: solid 5px;
+    border-color: blue;
+
+}
+.box{
+    margin-left: 50px;
+    padding-left: 0px;
+
+}
+
+.inner-box{
+    height: 100px;
+    margin: 10px;
+    width: 50px;
+    background: black;
+}
+
+.white{
+    color: aliceblue;
+}
