@@ -19,6 +19,7 @@ body{
 .login{
     width: 50%;
     float: left;
+    padding-top: 12px;
 }
 .logo{
     width: 50%;
@@ -30,7 +31,18 @@ body{
     justify-content: space-between;
     align-items: center;
   }
-  .login-text{
+  .login-label{
     color: #ffff;
+    font-size: 12px;
+     text-decoration: none; 
   }
-  
+  .login-controls{
+    margin: left 117px; ;
+  }
+  .sub-btn{
+    background: #4267b2;
+    color: #ffff;
+    height: 19px;
+    border-color:#29487d ;
+
+  }
